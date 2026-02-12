@@ -228,7 +228,7 @@ function FinansPaneli() {
   return (
     <div className="container py-4">
       <header className="mb-4">
-        <h1 className="h3 text-center fw-bold">Basit Finans Paneli</h1>
+        <h1 className="h3 text-center fw-bold">Finans Paneli</h1>
         <p className="text-center text-muted mb-0">
           Hisse al / sat, portföyünü görüntüle ve işlemleri grafik olarak takip et.
         </p>
