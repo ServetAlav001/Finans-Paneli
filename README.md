@@ -47,4 +47,3 @@ Tüm veriler sadece tarayıcı hafızasında tutulur, sayfayı yenilediğinizde 
 
 
 # Finans-Paneli
-# Finans-Paneli
