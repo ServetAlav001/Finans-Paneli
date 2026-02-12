@@ -45,3 +45,4 @@ npm run dev
 
 Tüm veriler sadece tarayıcı hafızasında tutulur, sayfayı yenilediğinizde sıfırlanır.
 
+# Basit-Finans-Paneli
